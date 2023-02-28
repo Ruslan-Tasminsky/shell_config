@@ -6,7 +6,7 @@
 
 ### Necessary packages
 
-```python
+```bash
 sudo apt install python3
 sudo apt install python3-pip
 sudo apt install python3.10-venv
@@ -30,7 +30,7 @@ sudo apt install tmux
 
 ### Install fish
 
-```python
+```bash
 sudo apt-add-repository ppa:fish-shell/release-3
 sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install fish
@@ -40,7 +40,7 @@ chsh -s /usr/bin/fish
 
 ### Install config fish
 
-```python
+```bash
 cd $HOME/.config/fish
 wget https://github.com/Ruslan-Tasminsky/fish-config/blob/main/alias.fish
 wget https://github.com/Ruslan-Tasminsky/fish-config/blob/main/config.fish
@@ -72,7 +72,7 @@ wget https://github.com/Ruslan-Tasminsky/fish-config/blob/main/config.fish
 
 ### Clone astrovim config
 
-```python
+```bash
 cd $HOME/.config/nvim/lua
 git clone git@github.com:Ruslan-Tasminsky/cat-nvim-config.git user
 ```
@@ -85,7 +85,7 @@ git clone git@github.com:Ruslan-Tasminsky/cat-nvim-config.git user
 
 ### Clone tmux config
 
-```python
+```bash
 cd $HOME
 wget https://github.com/Ruslan-Tasminsky/my-tmux/blob/main/.tmux.conf
 ```
