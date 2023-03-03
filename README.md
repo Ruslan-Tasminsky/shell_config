@@ -22,6 +22,7 @@ sudo pip install thefuck
 sudo apt install tree
 sudo apt install fzf
 sudo apt install tmux
+npm install -g live-server
 ```
 
 </br>
