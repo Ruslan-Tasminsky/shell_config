@@ -4,7 +4,13 @@
 
 ## THEME FOR DIFFERENT PLATFORM
 
-### [Get carbonfox](https://github.com/EdenEast/nightfox.nvim/tree/main/extra/carbonfox)
+### [Carbonfox](https://github.com/EdenEast/nightfox.nvim/tree/main/extra/carbonfox)
+
+</br>
+
+## WINDOWS TERMINAL
+
+## [Settings](https://github.com/Ruslan-Tasminsky/settings-winterm)
 
 </br>
 
