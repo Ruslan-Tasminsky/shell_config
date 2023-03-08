@@ -2,6 +2,12 @@
 
 </br>
 
+## THEME FOR DIFFERENT PLATFORM
+
+### [Get carbonfox](https://github.com/EdenEast/nightfox.nvim/tree/main/extra/carbonfox)
+
+</br>
+
 ## PACKAGES
 
 ### Necessary packages
@@ -22,7 +28,6 @@ sudo pip install thefuck
 sudo apt install tree
 sudo apt install fzf
 sudo apt install tmux
-npm install -g live-server
 ```
 
 </br>
