@@ -73,11 +73,9 @@ wget https://github.com/Ruslan-Tasminsky/fish-config/blob/main/config.fish
 
 ## NODE
 
-```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
-```
+### [Download nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-### [Install nvm (node and npm)](https://github.com/derekstavis/plugin-nvm)
+### [Install nvm omf](https://github.com/derekstavis/plugin-nvm)
 
 ```bash
 nvm install node
