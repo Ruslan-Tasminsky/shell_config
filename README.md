@@ -22,6 +22,7 @@
 sudo apt install python3
 sudo apt install python3-pip
 sudo apt install python3.10-venv
+sudo apt-get install g++
 sudo apt-get install unzip
 sudo apt-get install luarocks
 sudo apt-get install cmake
